@@ -1,6 +1,6 @@
-# SemNet
+# StruSem-RMI
 
-This repository provides the PyTorch implementation of the baseline model (SemNet) described in the paper: "RSID: A Highly Traceable and Multimodally Annotated Database for RNA–Small Molecule Interactions."SemNet is a multimodal deep learning model for RNA–small molecule interaction prediction, which integrates sequence, structural, and semantic representations of both modalities.
+This repository provides the PyTorch implementation of the baseline model (StruSem-RMI) described in the paper: "RSID: A Highly Traceable and Multimodally Annotated Database for RNA–Small Molecule Interactions."SemNet is a multimodal deep learning model for RNA–small molecule interaction prediction, which integrates sequence, structural, and semantic representations of both modalities.
 
 ![framework](figures/framework.png)
 
